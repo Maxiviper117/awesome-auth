@@ -44,6 +44,8 @@ A collection of libraries to assist in implementing authentication and authoriza
 
 - **[Spring Security](https://spring.io/projects/spring-security)**: A powerful and highly customizable authentication and access-control framework for Java applications.
 
+- **[Laravel Socialite](https://laravel.com/docs/11.x/socialite)**: A Laravel package that provides an easy and convenient way to authenticate with OAuth providers like Facebook, Twitter, Google, and more.
+
 ## Resources
 
 Additional resources for understanding and implementing authentication:
