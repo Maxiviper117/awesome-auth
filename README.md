@@ -7,6 +7,7 @@ A curated list of authentication and user management platforms, libraries, and r
 - [Platforms](#platforms)
 - [Libraries](#libraries)
 - [Resources](#resources)
+- [Authentication Pricing Comparison](#authentication-pricing-comparison)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -56,6 +57,10 @@ Additional resources for understanding and implementing authentication:
 - **[OpenID Connect](https://openid.net/connect/)**: Simple identity layer on top of the OAuth 2.0 protocol, allowing clients to verify the identity of end-users.
 
 - **[JSON Web Tokens (JWT)](https://jwt.io/)**: Open standard for securely transmitting information between parties as a JSON object.
+
+## Authentication Pricing Comparison
+
+- **[Authentication Pricing Comparison](https://saasprices.net/auth)**: Compare various authentication pricing options.
 
 ## Contributing
 
