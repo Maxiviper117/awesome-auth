@@ -33,7 +33,7 @@ A selection of platforms offering authentication and user management services:
 
 - **[Supabase](https://supabase.com/auth)**: Fully open source auth running on plain PostgreSQL. Choose hosted by Supabase, or self-hosted. Can run as standalone identity solution, or integrated with Supabase's PostgreSQL for Row Level Security.
 
-- **[Neon Auth](https://neon.com/docs/neon-auth/overview)**: Managed authentication built on Stack Auth that syncs users directly into your Neon Postgres database and branches with it.
+- **[Neon Auth](https://neon.com/docs/neon-auth/overview)**: Managed authentication built on Better Auth that syncs users directly into your Neon Postgres database and branches with it.
 
 ## Libraries
 
