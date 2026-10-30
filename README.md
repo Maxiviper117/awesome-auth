@@ -62,6 +62,7 @@ Additional resources for understanding and implementing authentication:
 
 ## Authentication Pricing Comparison
 
+- **[AuthCost](https://authcost.pages.dev/)**: Source-linked pricing tracker for Clerk, Auth0, Cognito, WorkOS, Stytch, Logto, Kinde and Supabase Auth.
 - **[Authentication Pricing Comparison](https://saasprices.net/auth)**: Compare various authentication pricing options.
 
 ## Contributing
